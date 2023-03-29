@@ -1,3 +1,4 @@
 Abigail 
 Perez Abraham
 está tratando de aprender git
+y le está costando un poco
